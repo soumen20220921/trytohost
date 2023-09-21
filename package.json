@@ -1,0 +1,38 @@
+{
+  "name": "healthcareai",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.0.0",
+    "prettier": "^1.13.7",
+    "react-script": "^2.0.5",
+    "vite": "^3.2.7"
+  },
+  "description": "****UPDATE 2-SEP-2022\r The API is not working anymore because the Railway Server has it's limitations and we reached that limitation and we don't have paid subscription of it. \r But I will surely fix it soon and update the URL link ok.",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumen20220921/HealthCareAiAssistance.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soumen20220921/HealthCareAiAssistance/issues"
+  },
+  "homepage": "https://github.com/soumen20220921/HealthCareAiAssistance#readme"
+}
